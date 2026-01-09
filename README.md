@@ -2,7 +2,7 @@
 
 Designed and developed a web application that provides real-time weather information for a given location.
 
-## 📌 **Live Site URL:** <a href="https://indra-s.github.io/Weather-App/">**Visit Now** 🚀</a>
+## 📌 **Live Site URL:** <a href="https://sunnykrajput07.github.io/Weather-App/">**Visit Now** 🚀</a>
 
 <br>
 
