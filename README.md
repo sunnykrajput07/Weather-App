@@ -2,7 +2,7 @@
 
 Designed and developed a web application that provides real-time weather information for a given location.
 
-## 📌 **Live Site URL:** <a href="https://weather-app-by-sunny-rajput.netlify.app/Weather-App">**Visit Now** 🚀</a>
+## 📌 **Live Site URL:** <a href=https://weather-app-by-sunny-rajput.netlify.app/>**Visit Now** 🚀</a>
 
 <br>
 
